@@ -2,11 +2,12 @@
 
 ## Objective
 To evaluate the impact of ESG performance on the financial performance of fossil fuel companies, particularly before and after the 2015 Paris Agreement, using a Difference-in-Differences (DiD) approach.
- ## Difference-in-Differences (DiD) Method
-The DiD method is used to estimate the causal effect of a policy intervention by comparing the changes in outcomes over time between a treatment group (Paris Agreement–aligned firms) and a control group (non-aligned firms). In this thesis, DiD isolates the impact of the 2015 Paris Agreement on financial performance and ESG scores by interacting the post-2015 time period with a dummy variable indicating whether a firm is aligned with the agreement.
 
 ## Econometric Approach
 The analysis is based on four linear regression models estimated using panel data from fossil fuel companies, comparing the periods before and after the 2015 Paris Agreement. A Difference-in-Differences (DiD) specification is used in some models to isolate the effect of the policy shift.
+
+## Difference-in-Differences (DiD) Method
+The DiD method is used to estimate the causal effect of a policy intervention by comparing the changes in outcomes over time between a treatment group (Paris Agreement–aligned firms) and a control group (non-aligned firms). In this thesis, DiD isolates the impact of the 2015 Paris Agreement on financial performance and ESG scores by interacting the post-2015 time period with a dummy variable indicating whether a firm is aligned with the agreement.
 
 ## Model Specifications
 Model 1: ESG Score Determinants
