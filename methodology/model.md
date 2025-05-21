@@ -26,12 +26,14 @@ Model 4: Operating Income Determinants
  ## res_ope = α + β1 * res_net_ai + β2 * ca + β3 * DiD + ε
 This model evaluates the relationship between residual operating income and the firm’s revenue, net income, and post-policy effect.
 
-## Variable	Description
-esg_score	Environmental, Social & Governance score
-ca	Revenue (chiffre d’affaires)
-res_net_ai	Residual net income (net income after tax)
-res_ope	Residual operating income
-DiD	Dummy for Difference-in-Differences (Post-2015 & Paris-aligned firm = 1)
-α	Constant term
-ε	Error term
+## Variable	Descriptions
 
+esg_score: Environmental, Social, and Governance performance score of the firm (Refinitiv).
+
+ca: Total revenue (chiffre d'affaires): a measure of firm size and performance.
+
+res_net_ai: Residual net income after tax: net income adjusted for firm fixed effects.
+
+res_ope: Residual operating income: operating income adjusted for firm fixed effects.
+
+DiD: Difference-in-Differences variable:: equals 1 for Paris Agreement–aligned firms after 2015, 0 otherwise.
