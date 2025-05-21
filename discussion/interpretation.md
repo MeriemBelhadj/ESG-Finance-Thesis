@@ -1,1 +1,15 @@
+## Discussion
+
+The regression results provide nuanced insights into the relationship between ESG performance and financial outcomes in the fossil fuel industry, particularly in light of the Paris Agreement. 
+
+The first model, which examines the determinants of ESG scores, reveals that firm size, as proxied by revenue, has a positive and statistically significant effect on ESG scores. This suggests that larger firms are more capable of allocating resources toward ESG initiatives. Interestingly, net income shows a negative relationship with ESG performance, indicating that more profitable firms may not necessarily invest more in sustainability, possibly due to a short-term focus on shareholder returns. The significant and positive coefficient of the Difference-in-Differences (DiD) variable confirms that firms aligned with the Paris Agreement experienced a notable increase in ESG scores post-2015. This supports the idea that external regulatory pressure has been a driver of improved ESG disclosure and performance.
+
+The second model explores the impact of ESG on firm revenue. Results indicate that ESG scores are strongly and positively associated with revenue, implying that better ESG performance can contribute to stronger top-line growth. However, the DiD variable is negatively associated with revenue, suggesting that alignment with the Paris Agreement may have imposed short-term revenue constraints, potentially due to the costs of compliance or restructuring.
+
+The third model, which focuses on the determinants of net income, reinforces this idea. While operating income and revenue positively influence net income, the DiD variable shows a negative and statistically significant effect, implying that Paris-aligned firms experienced a decline in profitability. This could be interpreted as evidence of transition costs associated with ESG implementation, such as increased capital expenditures or reduced operational flexibility.
+
+However, the fourth model, examining operating income, tells a different story. Here, the DiD variable is positive and significant, indicating that over time, firms aligned with the Paris Agreement improved their operational performance. This suggests that while the initial impact of ESG alignment may be financially burdensome, it can lead to more efficient operations and long-term gains. The strong and significant relationships among net income, revenue, and operating income across all models confirm the robustness of the financial dynamics at play.
+
+Overall, these findings point to a complex interaction between ESG performance and financial outcomes. ESG investments in the fossil fuel sector appear to involve a trade-off: they may hinder short-term profitability but can enhance operational performance and revenue in the long run. Crucially, the evidence also highlights the impact of global policy events—specifically the Paris Agreement—on corporate behavior, emphasizing the role of regulation in shaping ESG integration and financial strategy in high-emission industries.
+
 
