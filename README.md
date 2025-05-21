@@ -3,7 +3,7 @@
 _Context:_
 
 Objective
-This thesis investigates the relationship between ESG scores and financial performance in fossil fuel companies, using a difference-in-differences approach before and after the 2015 Paris Agreement.
+This thesis investigates the relationship between ESG Concept and financial performance in fossil fuel companies, using a difference-in-differences approach before and after the 2015 Paris Agreement.
 
  Timeframe
 - Study period: Pre-2015 vs. Post-2015 (Policy Shift)
@@ -12,9 +12,9 @@ This thesis investigates the relationship between ESG scores and financial perfo
  Data & Tools
 - Source: Refinitiv Datastream
 - Software: Stata
-- Variables: ESG score, Revenue, Net income, Operating income, Paris-alignment dummy
+- Variables: ESG score, Revenue, Net income, Operating income, DiD variable, Paris-alignment dummy
 
   Structure of this Repository
 - `/methodology`: Explains the regression design and variable definitions
-- `/results`: Includes regression tables exported from Stata
-- `/discussion`: Interpretation of coefficients and statistical insights
+- `/results`: Stata regression output tables
+- `/discussion`: Interpretation of results and key insights
