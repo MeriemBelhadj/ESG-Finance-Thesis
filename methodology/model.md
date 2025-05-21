@@ -28,12 +28,12 @@ This model evaluates the relationship between residual operating income and the 
 
 ## Variable	Descriptions
 
-esg_score: Environmental, Social, and Governance performance score of the firm (Refinitiv).
+- esg_score: Environmental, Social, and Governance performance score of the firm (Refinitiv).
 
-ca: Total revenue (chiffre d'affaires): a measure of firm size and performance.
+- ca: Total revenue (chiffre d'affaires): a measure of firm size and performance.
 
-res_net_ai: Residual net income after tax: net income adjusted for firm fixed effects.
+- res_net_ai: Residual net income after tax: net income adjusted for firm fixed effects.
 
-res_ope: Residual operating income: operating income adjusted for firm fixed effects.
+- res_ope: Residual operating income: operating income adjusted for firm fixed effects.
 
-DiD: Difference-in-Differences variable:: equals 1 for Paris Agreement–aligned firms after 2015, 0 otherwise.
+- DiD: Difference-in-Differences variable:: equals 1 for Paris Agreement–aligned firms after 2015, 0 otherwise.
