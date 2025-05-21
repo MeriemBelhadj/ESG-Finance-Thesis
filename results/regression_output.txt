@@ -1,4 +1,4 @@
-# 📊 Regression Results
+#  Regression Results
 
 This section presents the results from the four linear regression models used to investigate the relationship between ESG scores and financial performance in fossil fuel companies.
 
