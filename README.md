@@ -3,7 +3,7 @@
 _Context:_
 
 Objective
-This thesis investigates the relationship between ESG Concept and financial performance in fossil fuel companies, using a difference-in-differences approach before and after the 2015 Paris Agreement.
+This thesis investigates the relationship between Environmental, Social, and Governance (ESG) performance and financial outcomes in fossil fuel companies. It applies a difference-in-differences (DiD) approach to evaluate changes before and after the 2015 Paris Agreement.
 
  Timeframe
 - Study period: Pre-2015 vs. Post-2015 (Policy Shift)
