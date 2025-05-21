@@ -6,6 +6,7 @@ This section presents the results from the four linear regression models used to
 
 ## 🔹 Model 1: ESG Score as Dependent Variable
 
+
 **Equation:**  
 `ESG_score = α + β₁ * ca + β₂ * res_net_ai + β₃ * res_ope + β₄ * DiD + ε`
 
